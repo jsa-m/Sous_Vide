@@ -22,10 +22,10 @@ This project is a custom-built sous vide machine designed to provide precise tem
  * Alarm and Notification System: A buzzer is programmed to alert users at key moments during the cooking process.
 
 ## Images
-![PCB TOP](Images/PCB_TOP.png)
-![PCB BOTTOM](Images/PCB_BOTTOM.png)
+<img src="Images/PCB_TOP.png" width="400">
+<img src="Images/PCB_BOTTOM.png" width="400">
 <img src="Images/Container.jpg" width="400">
-![Oled](Images/Oled.jpg)
+<img src="Images/Oled.jpg" width="400">
 
 For more details, please contact me!
 
