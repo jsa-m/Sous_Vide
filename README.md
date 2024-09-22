@@ -21,3 +21,12 @@ This project is a custom-built sous vide machine designed to provide precise tem
  * Custom Menu System: The OLED display is programmed to show temperature and time settings, cooking modes, and live cooking status.
  * Alarm and Notification System: A buzzer is programmed to alert users at key moments during the cooking process.
 
+## Images
+![PCB TOP](Images/PCB_TOP.png)
+![PCB BOTTOM](Images/PCB_BOTTOM.png)
+![Container](Images/Container.jpg)
+![Oled](Images/Oled.jpg)
+
+For more details, please contact me!
+
+
