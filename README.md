@@ -24,7 +24,7 @@ This project is a custom-built sous vide machine designed to provide precise tem
 ## Images
 ![PCB TOP](Images/PCB_TOP.png)
 ![PCB BOTTOM](Images/PCB_BOTTOM.png)
-![Container](Images/Container.jpg)
+<img src="Images/Container.jpg" width="400">
 ![Oled](Images/Oled.jpg)
 
 For more details, please contact me!
